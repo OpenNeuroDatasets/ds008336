@@ -1,0 +1,15 @@
+{
+  "Name": "Structural and Diffusion MRI in Essential Tremor",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+
+  "Authors": [
+    "Haden Ray",
+    "Haiden Berton",
+    "Frank Yeh",
+    "Jessica Barrios Martinze",
+    "Vibhor Krishna"
+  ],
+
+  "License": "CC0-1.0"
+}
