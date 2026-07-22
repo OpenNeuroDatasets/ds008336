@@ -1,0 +1,54 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Haden Ray
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Haiden Berton
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Jessica Barrios Martinez
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Frank Yeh
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Vibhor Krishna
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+    creators:
+      - name: Haden Ray
+        nameType: Personal
+      - name: Haiden Berton
+        nameType: Personal
+      - name: Jessica Barrios Martinez
+        nameType: Personal
+      - name: Frank Yeh
+        nameType: Personal
+      - name: Vibhor Krishna
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
